@@ -1,0 +1,8 @@
+C:\Users\induja\Desktop\Exam\Exam\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\induja\Desktop\Exam\Exam\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\induja\Desktop\Exam\Exam\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\induja\Desktop\Exam\Exam\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+C:\Users\induja\Desktop\Exam\Exam\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache
+C:\Users\induja\Desktop\Exam\Exam\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\induja\Desktop\Exam\Exam\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\induja\Desktop\Exam\Exam\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

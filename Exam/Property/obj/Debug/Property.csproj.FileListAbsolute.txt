@@ -1,0 +1,8 @@
+C:\Users\induja\Desktop\Exam\Exam\Property\bin\Debug\Property.exe.config
+C:\Users\induja\Desktop\Exam\Exam\Property\bin\Debug\Property.exe
+C:\Users\induja\Desktop\Exam\Exam\Property\bin\Debug\Property.pdb
+C:\Users\induja\Desktop\Exam\Exam\Property\obj\Debug\Property.csprojResolveAssemblyReference.cache
+C:\Users\induja\Desktop\Exam\Exam\Property\obj\Debug\Property.Properties.Resources.resources
+C:\Users\induja\Desktop\Exam\Exam\Property\obj\Debug\Property.csproj.GenerateResource.Cache
+C:\Users\induja\Desktop\Exam\Exam\Property\obj\Debug\Property.exe
+C:\Users\induja\Desktop\Exam\Exam\Property\obj\Debug\Property.pdb

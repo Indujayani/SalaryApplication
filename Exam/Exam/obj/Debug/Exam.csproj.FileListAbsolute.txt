@@ -1,0 +1,15 @@
+C:\Users\induja\Desktop\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\induja\Desktop\Exam\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\induja\Desktop\Exam\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\induja\Desktop\Exam\Exam\Exam\bin\Debug\BussinessLayer.exe
+C:\Users\induja\Desktop\Exam\Exam\Exam\bin\Debug\Property.exe
+C:\Users\induja\Desktop\Exam\Exam\Exam\bin\Debug\DataAccessLayer.exe
+C:\Users\induja\Desktop\Exam\Exam\Exam\bin\Debug\BussinessLayer.pdb
+C:\Users\induja\Desktop\Exam\Exam\Exam\bin\Debug\Property.pdb
+C:\Users\induja\Desktop\Exam\Exam\Exam\bin\Debug\DataAccessLayer.pdb
+C:\Users\induja\Desktop\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\induja\Desktop\Exam\Exam\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\induja\Desktop\Exam\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\induja\Desktop\Exam\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+C:\Users\induja\Desktop\Exam\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\induja\Desktop\Exam\Exam\Exam\obj\Debug\Exam.pdb
